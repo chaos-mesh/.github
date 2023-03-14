@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to the <a href="https://chaos-mesh.org">Chaos Mesh</a> community!</h1>
 
-![Chaos Mesh Social Preview](./chaos-mesh-social-preview.png)
+![Chaos Mesh Social Preview](https://raw.githubusercontent.com/chaos-mesh/.github/main/chaos-mesh-social-preview.png)
 
 Chaos Mesh is an open source cloud-native Chaos Engineering platform. It offers various types of fault simulation and has an enormous capability to orchestrate fault scenarios.
 
