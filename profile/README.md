@@ -11,5 +11,5 @@ Using Chaos Mesh, you can conveniently simulate various abnormalities that might
   <a href="https://chaos-mesh.org/docs/">Documentation</a> •
   <a href="https://chaos-mesh.org/docs/basic-features/">Features</a> •
   <a href="https://github.com/chaos-mesh/rfcs">RFCs</a> •
-  <a href="https://slack.cncf.io/">Join our Slack (#project-chaos-mesh)</a>
+  <a href="https://slack.cncf.io/">Join our Slack channel (#project-chaos-mesh)</a>
 </p>
